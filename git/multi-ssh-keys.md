@@ -30,7 +30,7 @@ git@github.com:zzayne/exp.git
 ```
 需要修改为 
 ```
-git@github.com:zzayne/exp.git
+git@gh_personal:zzayne/exp.git
 ```
 
 这样 git 就会自动使用 host 匹配的 ssh key来推送代码。
