@@ -12,4 +12,4 @@ exp 是我个人开发经验槽。
 
 
 ## git
-[如何为不同账户配置不同的 ssh key](git/use-mutli-ssh-keys.md)
+[如何为不同账户配置不同的 ssh key](git/multi-ssh-keys.md)
